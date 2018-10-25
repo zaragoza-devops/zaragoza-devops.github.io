@@ -10,20 +10,19 @@ Esperamos que este sea el punto de encuentro para grandes discusiones, talleres 
 
 
 ## Eventos
-|:-------------|:----------------------|:------------------------------------------------------------------------|
+
 | 08 nov 2018  | `Kubernetes 101`      | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/255839601/)  |
 | 14 jun 2018  | `I Meetup ZAZ DevOps` | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/249158978/)  |
 
+
+
 ## Colaborar
 
-[Link to another page](./another-page.html).
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+¿Quieres charlar?       [Call for papers](./call-for-papers.html).
+
+¿Quieres patrocinar?    [Patrocinadores](./partners.html).
+
+¿Quieres involucrarte?  [Colabora](./partners.html).
 
 ```ruby
 # Ruby code with syntax highlighting
