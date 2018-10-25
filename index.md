@@ -20,11 +20,11 @@ Esperamos que este sea el punto de encuentro para grandes discusiones, talleres 
 
 ### Colaborar
 
-¿Quieres charlar?       [Call for papers](./call-for-papers.html).
+¿Quieres charlar? Apuntate a uno de los próximos eventos.   [Call for papers](./call-for-papers.html).
 
-¿Quieres patrocinar?    [Patrocinadores](./partners.html).
+¿Quieres patrocinar? Contacta con nosotros en la sección de [Sponsors](./partners.html).
 
-¿Quieres involucrarte?  [Colabora](./partners.html).
+¿Quieres involucrarte en la comunidad? [Colabora](./partners.html).
 
 <br />
 
