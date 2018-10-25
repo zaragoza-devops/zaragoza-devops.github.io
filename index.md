@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+<br />
+### Presentación
 
 Somos un grupo de aragoneses apasionados con la cultura DevOps. 
 
@@ -8,16 +10,16 @@ Nuestro objetivo es colaborar a extender este modelo por nuestras tierras del Eb
 
 Esperamos que este sea el punto de encuentro para grandes discusiones, talleres e iniciativas.
 
-<br /><br />
+<br />
 
-## Eventos
+### Eventos
 
 | 08 nov 2018  | `Kubernetes 101`      | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/255839601/)  |
 | 14 jun 2018  | `I Meetup ZAZ DevOps` | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/249158978/)  |
 
-<br /><br />
+<br />
 
-## Colaborar
+### Colaborar
 
 ¿Quieres charlar?       [Call for papers](./call-for-papers.html).
 
@@ -25,33 +27,7 @@ Esperamos que este sea el punto de encuentro para grandes discusiones, talleres 
 
 ¿Quieres involucrarte?  [Colabora](./partners.html).
 
-<br /><br />
-
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
+<br />
 
 
 ```
