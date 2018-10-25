@@ -2,25 +2,22 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Presentación
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+Somos un grupo de aragoneses apasionados con la cultura DevOps. Nuestro objetivo es colaborar a extender este modelo por nuestras tierras del Ebro a la vez que aprendemos y conseguimos poner en contacto muchos profesionales de la tecnología.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Esperamos que este sea el punto de encuentro para grandes discusiones, talleres e iniciativas.
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
+## Eventos
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### Colaborar
 
 ```js
 // Javascript code with syntax highlighting.
