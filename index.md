@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<br />
 ### Presentación
 
 Somos un grupo de aragoneses apasionados con la cultura DevOps. 
@@ -31,9 +30,5 @@ Esperamos que este sea el punto de encuentro para grandes discusiones, talleres 
 
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+DevOps Zaragoza 2018
 ```
