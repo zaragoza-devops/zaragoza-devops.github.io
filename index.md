@@ -2,10 +2,6 @@
 layout: default
 ---
 
-## Presentación
-
-[Link to another page](./another-page.html).
-
 Somos un grupo de aragoneses apasionados con la cultura DevOps. Nuestro objetivo es colaborar a extender este modelo por nuestras tierras del Ebro a la vez que aprendemos y conseguimos poner en contacto muchos profesionales de la tecnología.
 
 Esperamos que este sea el punto de encuentro para grandes discusiones, talleres e iniciativas.
@@ -17,8 +13,9 @@ Esperamos que este sea el punto de encuentro para grandes discusiones, talleres 
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Colaborar
+## Colaborar
 
+[Link to another page](./another-page.html).
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
