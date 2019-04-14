@@ -25,7 +25,7 @@ Esperamos que este sea el punto de encuentro para grandes discusiones, talleres 
 
 ### Colaborar
 
-¿Quieres charlar? Apuntate a uno de los próximos eventos.   [Call for papers](./call-for-papers.html).
+¿Quieres charlar? Apuntate a uno de los próximos eventos.   [Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSfPZLGc0c1hA1SeQfLA4KFOi1os9zGEPrVbILJIBznu9UukIA/viewforml).
 
 ¿Quieres patrocinar? Contacta con nosotros en la sección de [Sponsors](./partners.html).
 
