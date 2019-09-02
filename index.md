@@ -37,11 +37,11 @@ Esperamos que este sea el punto de encuentro para grandes discusiones, talleres 
 
 ### Canales
 
-Linkedin: [https://www.linkedin.com/groups/12106673] (https://www.linkedin.com/groups/12106673/)
+Linkedin: [https://www.linkedin.com/groups/12106673](https://www.linkedin.com/groups/12106673/)
 
-Slack:    [https://zithub.slack.com/messages/C2ZE8GDPY] (https://zithub.slack.com/messages/C2ZE8GDPY)
+Slack:    [https://zithub.slack.com/messages/C2ZE8GDPY]](https://zithub.slack.com/messages/C2ZE8GDPY)
 
-Gitter:   [https://gitter.im/devops-zaragoza] (https://gitter.im/devops-zaragoza)
+Gitter:   [https://gitter.im/devops-zaragoza](https://gitter.im/devops-zaragoza)
 
 <br />
 
