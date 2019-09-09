@@ -2,6 +2,8 @@
 ### Listado de eventos
 
 
+| 19 sep 2019  | `Especial AWS & DevOps Zaragoza` | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/264691586/)  |
+| 18 jul 2019  | `Golden signals for monitoring & 50 shades of Kubernetes` | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/263088438/)  |
 | 13 jun 2019  | `AWS, GitLab, Service Mesh, Istio` | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/262192675/)  |
 | 11 abr 2019  | `Docker & Jenkins`                 | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/260459360/)  |
 | 21 mar 2019  | `Istio & Helm`                     | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/259695158/)  |
