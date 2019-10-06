@@ -9,9 +9,12 @@
  
  * [Espúblico tecnología](https://espublico.tech/) 
  
- * [Everis](https://everis.es/)
+ * [Everis](https://everis.com/)
  
  * [atSistemas](https://atsistemas.com/es/)
+ 
+ * [Endalia](https://www.endalia.com/)
+ 
 
 #### Colaboran
 
