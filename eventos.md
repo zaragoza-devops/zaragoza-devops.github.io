@@ -3,7 +3,7 @@
 
 
 
-| 23 ene 2020  | `Okteto & Supersized prometheus` | [Link] (https://www.meetup.com/es-ES/DevOps-Zaragoza/events/267929888/) |
+| 23 ene 2020  | `Okteto & Supersized prometheus` | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/267929888/) |
 | 21 nov 2019  | `Testing and Kubernetes like a pro`   | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/266552615/) |
 | 23 oct 2019  | `DevOps phylosophy & AWS Aurora`   | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/265738663/)  |
 | 19 sep 2019  | `Especial AWS & DevOps Zaragoza`   | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/264691586/)  |
