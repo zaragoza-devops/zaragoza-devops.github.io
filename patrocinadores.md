@@ -15,7 +15,7 @@
  
  * [Endalia](https://www.endalia.com/)
  
- * [Drop] (https://getdrop.com/)
+ * [Drop](https://getdrop.com/)
  
 
 #### Colaboran
