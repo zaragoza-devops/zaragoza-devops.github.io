@@ -13,6 +13,7 @@ Esperamos que este sea el punto de encuentro para grandes discusiones, talleres 
 
 ### Eventos
 
+| 27 feb 2020  | `Let's talk about observability` | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/268948991) |
 | 23 ene 2020  | `Okteto & Supersized prometheus` | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/267929888/) |
 | 21 nov 2019  | `Testing and Kubernetes like a pro` | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/266552615/) |
 | 23 oct 2019  | `DevOps phylosophy & AWS Aurora`   | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/265738663/)  |
