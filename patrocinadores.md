@@ -1,3 +1,7 @@
+---
+layout: default
+permalink: /patrocinadores
+---
 
 ### Patrocinadores de la comunidad DevOps Zaragoza
 
@@ -5,7 +9,7 @@
 
  * [Hiberus](https://www.hiberus.com/) 
  
- * [SysDig](https://sysdig.com/)
+ * [Sysdig](https://sysdig.com/)
 
  * [Endalia](https://www.endalia.com/)
 
@@ -15,4 +19,4 @@
 
 * [Etopia](https://www.zaragoza.es/ciudad/etopia/) 
 
-<br />
+  ![logo de Etopía y del Ayuntamiento de Zaragoza](/assets/img/etopia.png)

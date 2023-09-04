@@ -1,7 +1,3 @@
-
-### Listado de eventos
-
-
 | 04 may 2023  | `We are back with AWS and adidas` | [Link](https://www.meetup.com/es-ES/devops-zaragoza/events/292868605) |  
 | 27 feb 2020  | `Let's talk about observability` | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/268948991) |  
 | 23 ene 2020  | `Okteto & Supersized prometheus` | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/267929888/) |  
@@ -17,5 +13,3 @@
 | 13 dic 2018  | `III Zaragoza DevOps`              | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/257101162/)  |  
 | 08 nov 2018  | `Kubernetes 101`                   | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/255839601/)  |  
 | 14 jun 2018  | `I Meetup ZAZ DevOps`              | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/249158978/)  |  
-
-<br />
