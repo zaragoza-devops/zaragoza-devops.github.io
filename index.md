@@ -37,6 +37,6 @@ Gitter:   [https://gitter.im/devops-zaragoza](https://gitter.im/devops-zaragoza)
 
 
 
-```
-DevOps Zaragoza 2019 - 2020
-```
+<div class="devops-date">
+DevOps Zaragoza 2019 - {{ site.time | date: '%Y' }}
+</div>
