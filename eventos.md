@@ -1,3 +1,5 @@
+| 14 sept 2023  | `Llega la vuelta al cole!` | [Link](https://www.meetup.com/es-ES/devops-zaragoza/events/295867229/) |  
+| 22 jun 2023  | `Lo primero de todo:  ¿cómo están las métricas?` | [Link](https://www.meetup.com/es-ES/devops-zaragoza/events/294057352/) |  
 | 04 may 2023  | `We are back with AWS and adidas` | [Link](https://www.meetup.com/es-ES/devops-zaragoza/events/292868605) |  
 | 27 feb 2020  | `Let's talk about observability` | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/268948991) |  
 | 23 ene 2020  | `Okteto & Supersized prometheus` | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/267929888/) |  
