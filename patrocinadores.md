@@ -8,8 +8,11 @@ permalink: /patrocinadores
 #### Patrocinan
 
  * [Endalia](https://www.endalia.com/)
+
  * [Hiberus](https://www.hiberus.com/) 
- * [NTT](https://es.nttdata.com/) 
+
+ * [NTT DATA](https://es.nttdata.com/) 
+
  * [Sysdig](https://sysdig.com/)
 
 

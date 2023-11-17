@@ -1,4 +1,5 @@
-| 14 sept 2023  | `Llega la vuelta al cole!` | [Link](https://www.meetup.com/es-ES/devops-zaragoza/events/295867229/) |  
+| 23 nov 2023  | `Entendiendo nuestra factura de AWS y ahorrando pasta` | [Link](https://www.meetup.com/es-ES/devops-zaragoza/events/297417617) |  
+| 14 sept 2023 | `Llega la vuelta al cole!` | [Link](https://www.meetup.com/es-ES/devops-zaragoza/events/295867229/) |  
 | 22 jun 2023  | `Lo primero de todo:  ¿cómo están las métricas?` | [Link](https://www.meetup.com/es-ES/devops-zaragoza/events/294057352/) |  
 | 04 may 2023  | `We are back with AWS and adidas` | [Link](https://www.meetup.com/es-ES/devops-zaragoza/events/292868605) |  
 | 27 feb 2020  | `Let's talk about observability` | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/268948991) |  
@@ -14,4 +15,4 @@
 | 10 ene 2019  | `Linux tricks - Prometheus`        | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/257785939/)  |  
 | 13 dic 2018  | `III Zaragoza DevOps`              | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/257101162/)  |  
 | 08 nov 2018  | `Kubernetes 101`                   | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/255839601/)  |  
-| 14 jun 2018  | `I Meetup ZAZ DevOps`              | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/249158978/)  |  
+| 14 jun 2018  | `I Meetup ZAZ DevOps`              | [Link](https://www.meetup.com/es-ES/DevOps-Zaragoza/events/249158978/)  |
