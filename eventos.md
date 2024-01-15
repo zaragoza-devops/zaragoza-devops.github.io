@@ -1,3 +1,4 @@
+| 15 ene 2024  | `Bienvenido 2024 - Elastic y Falco` | [link](https://www.meetup.com/es-ES/devops-zaragoza/events/298560575/) |  
 | 23 nov 2023  | `Entendiendo nuestra factura de AWS y ahorrando pasta` | [Link](https://www.meetup.com/es-ES/devops-zaragoza/events/297417617) |  
 | 14 sept 2023 | `Llega la vuelta al cole!` | [Link](https://www.meetup.com/es-ES/devops-zaragoza/events/295867229/) |  
 | 22 jun 2023  | `Lo primero de todo:  ¿cómo están las métricas?` | [Link](https://www.meetup.com/es-ES/devops-zaragoza/events/294057352/) |  
