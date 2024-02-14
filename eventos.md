@@ -1,3 +1,4 @@
+| 22 feb 2024  | `Vulnerability Management y semana laboral de 4 días!` | [link](https://www.meetup.com/es-ES/devops-zaragoza/events/299193978/) |  
 | 15 ene 2024  | `Bienvenido 2024 - Elastic y Falco` | [link](https://www.meetup.com/es-ES/devops-zaragoza/events/298560575/) |  
 | 23 nov 2023  | `Entendiendo nuestra factura de AWS y ahorrando pasta` | [Link](https://www.meetup.com/es-ES/devops-zaragoza/events/297417617) |  
 | 14 sept 2023 | `Llega la vuelta al cole!` | [Link](https://www.meetup.com/es-ES/devops-zaragoza/events/295867229/) |  
