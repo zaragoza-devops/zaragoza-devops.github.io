@@ -11,8 +11,6 @@ permalink: /patrocinadores
 
  * [Hiberus](https://www.hiberus.com/) 
 
- * [NTT DATA](https://es.nttdata.com/) 
-
  * [Sysdig](https://sysdig.com/)
 
 
