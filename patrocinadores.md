@@ -11,7 +11,7 @@ permalink: /patrocinadores
 
  * [Hiberus](https://www.hiberus.com/)
  
- * [Safety Bits](https://sysdig.com/https://safetybits.io) 
+ * [Safety Bits](https://safetybits.io) 
 
  * [Sysdig](https://sysdig.com/)
 
