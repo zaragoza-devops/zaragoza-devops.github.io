@@ -9,7 +9,9 @@ permalink: /patrocinadores
 
  * [Endalia](https://www.endalia.com/)
 
- * [Hiberus](https://www.hiberus.com/) 
+ * [Hiberus](https://www.hiberus.com/)
+ 
+ * [Safety Bits](https://sysdig.com/https://safetybits.io) 
 
  * [Sysdig](https://sysdig.com/)
 
