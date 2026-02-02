@@ -24,5 +24,5 @@ Puedes consultar los [próximos eventos en Meetup](https://www.meetup.com/es-ES/
 
 
 <div class="devops-date">
-DevOps Zaragoza 2019 - {{ site.time | date: '%Y' }}
+DevOps Zaragoza 2018 - {{ site.time | date: '%Y' }}
 </div>
