@@ -6,14 +6,12 @@ permalink: /patrocinadores
 ### Patrocinadores de la comunidad DevOps Zaragoza
 
 #### Patrocinan
-
- * [Endalia](https://www.endalia.com/)
-
- * [Hiberus](https://www.hiberus.com/)
  
  * [Safety Bits](https://safetybits.io) 
 
  * [Sysdig](https://sysdig.com/)
+
+ * [Rootnode](https://rootnode.es)
 
 
 
